@@ -43,3 +43,5 @@ if __name__ == "__main__":
     print ()
     # xTab calls are neater
     print (exampleR.query("x < 6").xTab("x", "sv"))
+
+    
